@@ -4,4 +4,4 @@ A DevOps Engineer looking to learn and grow!
 
 I am currently looking to learn new DevOps tool and concepts
 
-I love going to the gym and playing football
+Fun fact, I love going to the gym and playing football
