@@ -29,6 +29,6 @@ I’ll soon start uploading beginner-to-intermediate DevOps projects as I progre
 - **Networking:** Fundamentals of TCP/IP, DNS, and routing  
 
 ### 🌐 Connect With Me  
-💼 [LinkedIn](www.linkedin.com/in/paramjyot-tooray-43a5442b)  
+💼 [LinkedIn](https://www.linkedin.com/in/paramjyot-tooray-43a5442b)  
 
 🛠️ “Learning one tool, one command, and one project at a time.”
